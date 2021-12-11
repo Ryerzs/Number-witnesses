@@ -2,4 +2,5 @@ Templater
 *.json
 *.json
 .obsidian
+.obsidian.vimrc
 Filip Notes
